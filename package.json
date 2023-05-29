@@ -3,6 +3,11 @@
   "displayName": "List Aligner",
   "description": "Vertical align the lines based on comma",
   "version": "1.0.0",
+  "publisher": "TTTPOB",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TTTPOB/vscode-list-aligner"
+  },
   "engines": {
     "vscode": "^1.78.0"
   },
